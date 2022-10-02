@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Albert Einstein"
+    },
+    {
+      "name": "Carl Sagan"
+    }
+  ],
+
+  "messages": [
+    {
+      "sender_name": "Albert Einstein",
+      "timestamp_ms": 1637173801305,
+      "content": "I have no special talent. I am only passionately curious.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carl Sagan",
+      "timestamp_ms": 1637173801305,
+      "content": "Science is a way of thinking much more than it is a body of knowledge.",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Albert Einstein",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/alberteinstiencool_htv4b3rjba",
+  "magic_words": []
+}
